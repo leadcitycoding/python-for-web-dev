@@ -6,7 +6,7 @@ Welcome! Here we will cover most of the commands a developer would typically mak
 
 ## NAVIGATION
 
-PRESENT DIRECTORY
+#### PRESENT DIRECTORY
 
 ```
 .
@@ -36,7 +36,7 @@ PREVIOUS DIRECTORY
 
 CHANGING DIRECTORY
 
-```
+```cmd
 cd <DIRECTORY-NAME>
 ```
 
@@ -46,8 +46,8 @@ cd <DIRECTORY-NAME>
 
 CREATING A FILE
 
-```
-touch <filename>.<ext>
+```cmd
+touch <FILENAME>.<ext>
 ```
 
 -   The `touch` keyword is used for creating files. When creating a file it is important to include the relevant extension (eg. `.txt`, `.html`, `.css`, `.js`, `.py`, `.php`; etc). This helps your system know what type of file you can interacting with, and assists it in performing properly.
@@ -58,7 +58,7 @@ touch <filename>.<ext>
 
 CREATING A DIRECTORY
 
-```
+```cmd
 mkdir <DIRECTORY-NAME>
 ```
 
@@ -68,7 +68,7 @@ mkdir <DIRECTORY-NAME>
 
 MOVING A DIRECTORY
 
-```
+```cmd
 mv <PRESENT-LOCATION>/<DIRECTORY-NAME> <NEW-LOCATION>
 ```
 
@@ -80,7 +80,7 @@ mv <PRESENT-LOCATION>/<DIRECTORY-NAME> <NEW-LOCATION>
 
 RENAMING A DIRECTORY
 
-```
+```cmd
 mv <CURRENT-DIRECTORY-NAME> <NEW-DIRECTORY-NAME>
 ```
 
@@ -92,7 +92,7 @@ mv <CURRENT-DIRECTORY-NAME> <NEW-DIRECTORY-NAME>
 
 COPYING A FILE
 
-```
+```cmd
 cp <PRESENT-LOCATION>/<FILE>.<EXT> <NEW-LOCATION>
 ```
 
