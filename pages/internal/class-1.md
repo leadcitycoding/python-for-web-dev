@@ -17,7 +17,7 @@ Kindly do the following before the next class:
 
 -   Sign up on GitHub, if you have not already.
 
-    -   Submit the link to your GitHub profile [via this link](https://forms.gle/Jy7H3sBSfWpk56Vn7). This is essential for future activities.
+    -   Submit the link to your GitHub profile [via this form](https://forms.gle/Jy7H3sBSfWpk56Vn7). This is essential for future activities.
 
 -   Read [this blog article](https://www.freecodecamp.org/news/pushing-to-github-made-simple-enough-for-poets/) to get an understanding of how GitHub works.
 
