@@ -2,7 +2,7 @@
 
 \> [Homepage](../../README.md) \>
 
-Welcome! Here we will cover most of the commands a developer would typically make use of on a daily basis. Our focus here will be commands that help with interacting with files and folders (also known as directories).
+Welcome! Here we will cover most of the commands a developer would typically make use of on a daily basis. Our focus here will be on commands that help with interacting with files and folders (also known as directories).
 
 ## NAVIGATION
 
@@ -50,7 +50,7 @@ CREATING A FILE
 touch <FILENAME>.<ext>
 ```
 
--   The `touch` keyword is used for creating files. When creating a file it is important to include the relevant extension (eg. `.txt`, `.html`, `.css`, `.js`, `.py`, `.php`; etc). This helps your system know what type of file you can interacting with, and assists it in performing properly.
+-   The `touch` keyword is used for creating files. When creating a file it is important to include the relevant extension (eg. `.txt`, `.html`, `.css`, `.js`, `.py`, `.php`; etc). This helps your system know what type of file you are interacting with and assists it to perform properly.
 
 -   The command above creates a file in the directory where one is currently, on the command line. For cases where you need to create a file elsewhere, use `touch` followed by a space and the relevant navigation symbols, before the desired filename.
 
