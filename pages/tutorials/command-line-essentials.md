@@ -26,11 +26,11 @@ PREVIOUS DIRECTORY
 ../
 ```
 
--   Note that the navigation syntax above are generally implemented with commands below, and can be used with them.
+-   Note that the navigation syntax above is generally implemented with commands below, and can be used with them. Also, note that navigation commands can be chained together.
 
 ## Commands
 
-> When implementing the commands below, do not use the `<` and `>` symbols. This is just for a distinguising effect.
+> When implementing the commands below, do not use the `<` and `>` symbols. This is just for a distinguishing effect.
 
 ---
 
