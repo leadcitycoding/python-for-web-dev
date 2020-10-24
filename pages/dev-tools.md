@@ -8,3 +8,5 @@
     -   [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 -   GitHub
     -   [https://github.com/](https://github.com/)
+-   Python
+    -   [https://www.python.org/downloads/](https://www.python.org/downloads/)
