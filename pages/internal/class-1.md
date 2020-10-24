@@ -1,6 +1,6 @@
 ## <span style="text-decoration:underline">Class 1</span>
 
-\> [Homepage](../../README.md) \>
+\> [Homepage](../../README.md)
 
 ## Assignment
 

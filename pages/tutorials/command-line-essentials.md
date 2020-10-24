@@ -1,6 +1,6 @@
 ## <span style="text-decoration:underline">Command Line Essentials</span>
 
-\> [Homepage](../../README.md) \>
+\> [Homepage](../../README.md)
 
 Welcome! Here we will cover most of the commands a developer would typically make use of on a daily basis. Our focus here will be on commands that help with interacting with files and folders (also known as directories).
 
