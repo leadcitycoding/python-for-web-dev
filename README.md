@@ -17,3 +17,4 @@ Build the skills needed to succeed as a Fullstack Developer today.
 **Pages**
 
 -   [Developer Tools](./pages/dev-tools.md)
+-   [Curriculum](./pages/curriculum.md)
